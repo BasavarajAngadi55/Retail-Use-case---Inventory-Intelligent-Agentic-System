@@ -1,6 +1,6 @@
 # Retail-Use-case---Inventory-Intelligent-Agentic-System
 
-🌍 Context
+🌍 **Context**
 
 Modern retail and supply chain operations operate in highly dynamic environments where inventory levels, demand patterns, and vendor conditions continuously change.
 
@@ -44,10 +44,10 @@ Heavy reliance on manual intervention
 Lack of real-time responsiveness
 No dynamic decision routing
 Poor integration between inventory and vendor systems
+
 💡 Desired Outcome
 
 An agent-driven inventory intelligence system that:
-
 Automatically detects inventory issues
 Dynamically routes execution paths
 Optimizes vendor selection
