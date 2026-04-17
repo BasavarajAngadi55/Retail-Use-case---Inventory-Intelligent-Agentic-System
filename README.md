@@ -53,3 +53,15 @@ Dynamically routes execution paths
 Optimizes vendor selection
 Reduces human effort in operational decisions
 Enables faster and more accurate procurement actions
+Problem Statement
+
+
+The system must:
+
+Checks inventory in real-time — what's low, what's overloaded
+Classifies stock intelligently — out-of-stock vs overstock vs healthy
+Routes to the right action — don't bother the manager with healthy stock
+Fetches vendor recommendations — multiple vendors, real prices, item-level quotes
+Presents a decision — consolidated report with best vendor per item
+
+The system must be agentic — it should decide its own next steps based on what it finds.
