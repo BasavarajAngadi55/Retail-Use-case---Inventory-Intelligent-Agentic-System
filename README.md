@@ -1,4 +1,4 @@
-# Retail-Use-case---Inventory-Intelligent-Agentic-System
+# Retail-Use-case-Inventory-Intelligent-Agentic-System
 
 🌍 **Context**
 
