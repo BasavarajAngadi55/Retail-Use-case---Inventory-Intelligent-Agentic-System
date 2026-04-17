@@ -27,9 +27,9 @@ Increased operational overhead
 
 Continuously monitor inventory in real-time
 Classify stock into:
-Out-of-stock
-Overstock
-Healthy inventory
+Out-of-stock,
+Overstock,
+Healthy inventory,
 Dynamically route decisions based on inventory state
 Fetch and compare multi-vendor data (cost, delivery, availability)
 Provide a consolidated, optimized recommendation for action
