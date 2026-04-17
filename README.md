@@ -65,3 +65,5 @@ Fetches vendor recommendations — multiple vendors, real prices, item-level quo
 Presents a decision — consolidated report with best vendor per item
 
 The system must be agentic — it should decide its own next steps based on what it finds.
+<img width="1492" height="1482" alt="image" src="https://github.com/user-attachments/assets/ea9528c0-827a-41a5-8213-d631a93c0dc4" />
+
