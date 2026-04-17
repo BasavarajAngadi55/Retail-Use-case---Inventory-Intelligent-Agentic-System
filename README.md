@@ -21,7 +21,7 @@ Delayed decision-making
 Inefficient stock utilization
 Suboptimal vendor selection
 Increased operational overhead
-📌 Problem Statement
+
 
 **There is a need for an intelligent system that can**:
 
